@@ -1,5 +1,6 @@
 /**
  * Hello App ou test, good morning!
+ * now we use token from internal windows store
  *
  */
 package ma.enset;
