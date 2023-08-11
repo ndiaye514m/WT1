@@ -1,7 +1,7 @@
 /**
  * Hello App ou test, good morning!
  * now we use token from internal windows store
- *
+ *now we contribute 515m
  */
 package ma.enset;
 
@@ -13,6 +13,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Bismillah World!" );
+	String message="Bismillahi Rahmani rahim";
+        System.out.println(message);
     }
 }
